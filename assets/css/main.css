@@ -481,7 +481,7 @@
 		font-size: 18pt;
 		line-height: 1.75em;
 		color: #39454b;
-		letter-spacing: 0.025em;
+		letter-spacing: 0.015em;
 	}
 
 		@media screen and (max-width: 1920px) {
@@ -528,7 +528,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 900;
 		color: inherit;
-		letter-spacing: -0.0325em;
+		letter-spacing: -0.01em;
 		font-family: 'IM Fell English', serif;
 	}
 
