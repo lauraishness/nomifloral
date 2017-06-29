@@ -16,6 +16,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -526,22 +527,23 @@
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 900;
+		font-weight: 500;
 		color: inherit;
-		letter-spacing: -0.01em;
 		font-family: 'IM Fell English', serif;
+		letter-spacing: .10em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
 			font-family: 'IM Fell English', serif;
+			letter-spacing: .05em;
 		}
 
 	h2 {
 		font-size: 2.25em;
 		line-height: 1.25em;
-		letter-spacing: -0.05em;
+		letter-spacing: .10em;
 	}
 
 	@media screen and (max-width: 736px) {
